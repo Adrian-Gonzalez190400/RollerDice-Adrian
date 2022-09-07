@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MiHolaMundo</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="lblSaludo">Gretiing!!</string>
+    <string name="btnRoller">ROLLER</string>
+</resources>
